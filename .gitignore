@@ -1,0 +1,21 @@
+# Created by .ignore support plugin (hsz.mobi)
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+
+# Intellij project files
+*.iml
+*.ipr
+.idea/
+webapp/src/main/webapp/js/bower_components/
+
+# Others
+target/
+logs/
+
+/webapp/node/
+/webapp/node_modules/
+/webapp/rev-manifest.json
+*.war
